@@ -15,7 +15,7 @@ class prime
         if(c==2)
          System.out.println("prime number");
          else
-          System.out.println("nor prhme nubber");
+          System.out.println("not prime number");
 
     }
 }
